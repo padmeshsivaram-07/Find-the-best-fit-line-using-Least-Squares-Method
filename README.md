@@ -57,7 +57,8 @@ RegisterNumber: 212225240103
 
 ## Output:
 
-<img width="788" height="643" alt="Screenshot 2026-02-06 144340" src="https://github.com/user-attachments/assets/cf694a2e-e995-4294-8ff3-4db9d32fa826" />
+<img width="788" height="643" alt="Screenshot 2026-02-06 144340" src="https://github.com/user-attachments/assets/bf9047f4-1cee-4fec-a52a-343556a6b4d2" />
+
 
 
 ## Result:
