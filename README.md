@@ -47,7 +47,7 @@ plt.title('Univariate Linear Regression using Least Squares')
 plt.legend()
 plt.show()
 
-```
+
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
 Developed by: Padmesh Sivaram R
@@ -56,9 +56,7 @@ RegisterNumber: 212225240103
 ```
 
 ## Output:
-
-<img width="788" height="643" alt="Screenshot 2026-02-06 144340" src="https://github.com/user-attachments/assets/bf9047f4-1cee-4fec-a52a-343556a6b4d2" />
-
+<img width="788" height="643" alt="Screenshot 2026-02-06 144340" src="https://github.com/user-attachments/assets/cfb1840c-e832-46c5-9604-6e389b17b1ca" />
 
 
 ## Result:
